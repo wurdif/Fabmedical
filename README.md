@@ -21,7 +21,18 @@ Then copy the public part of your key to github for you to be able to authentica
 
 ## Resume on day 2
 
-To resume on day 2 you will need to take following steps:
+We provide pre-build docker images of the sample application for you. The
+respective images are called:
+
+```
+waeltken/fabmedical-content-api:latest
+waeltken/fabmedical-content-web:latest
+waeltken/fabmedical-content-init:latest
+```
+
+These images are available publicly.
+
+To reuse your own build-pipeline form exercise one of the workshop need to take following steps:
 
 1. Update the secrets for the container registry in your github repository.
 2. Update all 3 build pipelines yaml files with the correct values for the new
