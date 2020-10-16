@@ -78,8 +78,11 @@ We provide pre-build docker images of the sample application for you. The
 respective images are called:
 
 `waeltken/fabmedical-content-api:latest`
+
 `waeltken/fabmedical-content-web:latest`
+
 `waeltken/fabmedical-content-init:latest`
+
 
 These images are available publicly.
 
