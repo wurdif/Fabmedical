@@ -98,4 +98,4 @@ To reuse your own build-pipeline form exercise one of the workshop need to take 
 Q: In `Exercise 2 - Task 2 - Step 16` when I try to apply the updated template a get an error message, what's wrong?
 
 A: The guide is missing a hint that you need to delete the `resourceVersion`
-metadata from you yaml file. ![Remove Metadata](./img/remove-metadata.png)
+metadata from your yaml file. ![Remove Metadata](./img/remove-metadata.png)
